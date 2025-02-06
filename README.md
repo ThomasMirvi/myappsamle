@@ -1,3 +1,15 @@
-About project:
-This is my first project on GitHub.
-Credit: Tomáš Mirvald
+# Projektový název
+Testovací projekt 
+
+
+## Popis
+Tento projekt slouží jako testovací a nemá hlubší význam
+
+## Požadavky
+Softwarově velice nenanáročný
+
+## Autor
+Tomáš Mirvald
+
+## Licence
+Open source
